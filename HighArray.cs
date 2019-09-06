@@ -1,8 +1,8 @@
 ﻿/**********************************************************************************/
 // Project 1 from Data Structures (Summer 2018)
 // Class: "High Array"
-// This program's original purpose was to demonstrate typical Data Structure such as
-// searching and inserting. This version is modified to take in a text file containing 
+// This program's original purpose was to demonstrate typical Data Structure methods such
+// as searching and inserting. This version is modified to take in a text file containing 
 // values, inserting them, then asking the user for values to search.
 /**********************************************************************************/
 
